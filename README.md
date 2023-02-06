@@ -1,44 +1,30 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
+# Auto_Corretor
 
-Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
-
-# NomedoProjeto
-
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Número da Lista**: 40<br>
+**Conteúdo da Disciplina**: Programação Dinamica<br>
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 16/0112028  |  André Goretti Motta |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+Este projeto tem como objetivo desenvolver um verificador ortográfico baseado no algoritmo de "Subsequência Comum Mais Longa" (LCS). Para isso, foi criada uma interface simples onde é possível inserir o texto e o verificador irá compará-lo palavra por palavra com uma base de dados resumida, garantindo assim a eficiência e agilidade da verificação ortográfica.
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+Este projeto visa desenvolver um verificador ortográfico baseado na técnica de "Subsequência Comum Mais Longa" (LCS). Para isso, foi criada uma interface fácil de usar que permite a inserção de texto. O verificador irá comparar a palavra atualmente selecionada com uma base de dados resumida, aumentando a eficiência da verificação ortográfica.
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+**Linguagem**: Python<br>
 
 ## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+Basta instalar o TKinter:
 
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+>sudo apt install python3-tk
+
+E rodar:
+
+>python3 Main.py
 
 
 
