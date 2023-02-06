@@ -17,12 +17,11 @@ Este projeto visa desenvolver um verificador ortográfico baseado na técnica de
 ## Instalação 
 **Linguagem**: Python<br>
 
-## Uso 
 Basta instalar o TKinter:
 
 >sudo apt install python3-tk
 
-E rodar:
+## Uso 
 
 >python3 Main.py
 
